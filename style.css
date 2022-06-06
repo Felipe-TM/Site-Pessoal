@@ -312,7 +312,7 @@ footer span {
         width: 100px;
         position: absolute;
         top: 0px;
-        right: 20px;
+        right: 0px;
         display: flex;
         justify-content: center;
         cursor: pointer;
