@@ -181,7 +181,7 @@ main {
     height: 300px;
     width: 400px;
     margin: 3rem 0 0;
-    background-image: url('Background.jpg');
+    background-image: url(../images/Background.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
